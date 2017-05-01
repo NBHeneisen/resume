@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: white;
+    text-align: center;
+    border-bottom: 4px solid black;
+    padding-bottom: 20px
+}
+
+.col-lg-4 {
+    text-align:center;
+}
+
+.sub-section {
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 30px;
+}
