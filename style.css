@@ -13,3 +13,7 @@
     border-bottom: 1px solid lightgrey;
     margin-bottom: 30px;
 }
+
+.col-lg-6 {
+    text-align: center;
+}
